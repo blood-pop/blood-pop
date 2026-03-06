@@ -1,1 +1,2 @@
-![Kaworu Nagisa _ Evangelion](https://github.com/user-attachments/assets/d8bdf85c-67a4-4232-a280-b94698a25c8d)
+![tải xuống](https://github.com/user-attachments/assets/19aed25c-0d9b-4579-a09e-de9a11cbfc96)
+
