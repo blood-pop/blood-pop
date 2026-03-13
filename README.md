@@ -2,9 +2,7 @@
 
  [ATABOOK](https://fhantom.atabook.org)
 
-## 🎧 Now Playing
-
-[![album](https://open.spotify.com/track/486SOuxGXX6CFNMwFXlGZs?si=fb428040344b4d31)
+![](https://open.spotify.com/track/486SOuxGXX6CFNMwFXlGZs?si=fb428040344b4d31)
 
 
 
