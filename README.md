@@ -4,7 +4,7 @@
 
 ## 🎧 Now Playing
 
-[![song](https://open.spotify.com/track/486SOuxGXX6CFNMwFXlGZs?si=fb428040344b4d31)
+[![album](https://open.spotify.com/track/486SOuxGXX6CFNMwFXlGZs?si=fb428040344b4d31)
 
 
 
