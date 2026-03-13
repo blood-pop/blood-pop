@@ -2,4 +2,4 @@
 
  [ATABOOK](https://fhantom.atabook.org)
 
-[![SO TIRED](album.png)](https://open.spotify.com/track/486S0uxGXX6CFNwWFXIGZs)]
+[!(album.png)](https://open.spotify.com/track/486S0uxGXX6CFNwWFXIGZs)]
