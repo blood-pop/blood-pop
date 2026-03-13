@@ -2,7 +2,7 @@
 
  [ATABOOK](https://fhantom.atabook.org)
 
-![](https://open.spotify.com/track/486SOuxGXX6CFNMwFXlGZs?si=fb428040344b4d31)
+![ALBUM](https://open.spotify.com/track/486SOuxGXX6CFNMwFXlGZs?si=fb428040344b4d31)
 
 
 
