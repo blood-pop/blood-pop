@@ -2,5 +2,5 @@
 
  [ATABOOK](https://fhantom.atabook.org)
 
-![image](https://pin.it/7xOCsT2ia)
+![](https://pin.it/7xOCsT2ia)
 
