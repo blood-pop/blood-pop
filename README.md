@@ -6,4 +6,4 @@
 
 - call me astro or ast
 - he/they
-- multi fandom 
+- multi fandoms
